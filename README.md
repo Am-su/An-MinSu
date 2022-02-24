@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @An-MinSu
-- 👀 I’m interested in Java, Web
+- 👀 I’m interested in Java, Web.
 
 <!---
 An-MinSu/An-MinSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
